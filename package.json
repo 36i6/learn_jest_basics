@@ -1,0 +1,25 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "jest-intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "Mr.Pixel",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
